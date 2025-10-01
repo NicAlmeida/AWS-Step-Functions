@@ -25,6 +25,7 @@ Step Functions ajuda a reduzir complexidade, criar fluxo e integrar serviços da
 ## Meu Fluxo Simples
 
 Para este laboratório, criei um **fluxo simples** que integra **Lambda**, **S3** e **SNS**. 
+
 ![Fluxo Step Functions](images/fluxo.png)
 
 
